@@ -1,0 +1,14 @@
+{
+  "name": "order-changed",
+  "repo": "component/order-changed",
+  "description": "Check if the order between two arrays has changed",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
