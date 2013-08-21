@@ -11,5 +11,9 @@
     "scripts": {
       "order-changed/index.js": "index.js"
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/component/order-changed.git"
   }
 }
